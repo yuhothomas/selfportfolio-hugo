@@ -20,7 +20,7 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = ""
+address = "Hong Kong"
 author = "Thomas Leung"
 copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
 description = ""
@@ -28,7 +28,7 @@ email = "tl.contactme@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 logo = "images/logo.png"
-phone = ""
+phone = "+852 60934807"
 theme_color = "#41228e"
 [params.contact]
 enable = false
