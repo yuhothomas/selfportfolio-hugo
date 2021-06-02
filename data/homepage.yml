@@ -16,8 +16,8 @@ skill:
   enable: true
   title: Skills
   item:
-  - title: Web Design
-    progress: 90%
+  - title: Cinema 4D
+    progress: 70%
     color: "#fdb157"
   - title: Logo Design
     progress: 60%
