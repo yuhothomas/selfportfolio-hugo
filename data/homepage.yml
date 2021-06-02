@@ -13,7 +13,7 @@ about:
     label: know more
     URL: about
 skill:
-  enable: true
+  enable: false
   title: Skills
   item:
   - title: Cinema 4D
@@ -45,7 +45,7 @@ experience:
     company: THEMEFISHER
     duration: Sep 2014 - Present
 education:
-  enable: true
+  enable: false
   title: Education
   item:
   - title: Marters in UX Design
@@ -84,7 +84,7 @@ portfolio:
   title: Portfolio
   item_show: "5"
 testimonial:
-  enable: true
+  enable: false
   title: Testimonials
   item:
   - name: Jesica Gomez
@@ -135,5 +135,5 @@ clients_logo_slider:
   - logo: images/clients-logo/client-logo-5.png
     URL: "#"
 blog:
-  enable: true
+  enable: false
   title: Blogs
