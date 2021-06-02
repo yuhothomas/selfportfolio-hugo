@@ -4,21 +4,25 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Thomas Leung | Motion Designer and Video Editor"
 [[menu.main]]
-URL = "contact"
-name = "Contact"
+URL = "about"
+name = "About"
+weight = 2
+[[menu.main]]
+URL = "blog"
+name = "Blog"
 weight = 3
 [[menu.main]]
 URL = "portfolio"
 name = "Portfolio"
-weight = 2
+weight = 4
 [[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
+URL = "contact"
+name = "Contact"
+weight = 5
 [params]
 address = "Hong Kong"
 author = "Thomas Leung"
-copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+copyright = ""
 description = ""
 email = "tl.contactme@gmail.com"
 google_analitycs_id = "Your ID"
