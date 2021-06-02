@@ -4,21 +4,17 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Thomas Leung | Motion Designer and Video Editor"
 [[menu.main]]
-URL = "about"
-name = "About"
-weight = 2
-[[menu.main]]
-URL = "blog"
-name = "Blog"
+URL = "contact"
+name = "Contact"
 weight = 3
 [[menu.main]]
 URL = "portfolio"
 name = "Portfolio"
-weight = 4
+weight = 2
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 5
+URL = "about"
+name = "About"
+weight = 1
 [params]
 address = "Hong Kong"
 author = "Thomas Leung"
