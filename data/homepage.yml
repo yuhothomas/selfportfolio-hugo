@@ -25,8 +25,8 @@ skill:
   - title: After Effects
     progress: 80%
     color: "#bdecf6"
-  - title: Web App
-    progress: 70%
+  - title: Houdini
+    progress: 50%
     color: "#ffbcaa"
 experience:
   enable: true
